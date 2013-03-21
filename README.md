@@ -15,10 +15,10 @@ here</a>.
 ![python 3](https://raw.github.com/Romibuzi/pycharm-color-scheme/master/images/Python3.PNG "")
 
 <h5>HTML and JavaScript :</h5>
-![HTML-CSS](https://raw.github.com/Romibuzi/pycharm-color-scheme/master/images/HTML-CSS.PNG "")
+![HTML-CSS](https://raw.github.com/Romibuzi/pycharm-color-scheme/master/images/HTML-JS.PNG "")
 
 <h5>CSS : </h5>
-![CSS](https://raw.github.com/Romibuzi/pycharm-color-scheme/master/images/Python1.PNG "")
+![CSS](https://raw.github.com/Romibuzi/pycharm-color-scheme/master/images/CSS.PNG "")
 
 To install it, copy the xml into the following directory (XX = your version of Pycharm) :
 
