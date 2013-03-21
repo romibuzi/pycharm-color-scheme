@@ -8,7 +8,7 @@ here</a>.
 <h4>Some Screenshots : </h4>
 
 <h5>Python : </h5>
-![python 1](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python1.PNG "")
+![python 1](https://raw.github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python1.PNG "")
 
 ![python 2](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python2.PNG "")
 
