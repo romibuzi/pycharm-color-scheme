@@ -23,8 +23,8 @@ here</a>.
 To install it, copy the xml into the following directory (XX = your version of Pycharm) :
 
 <ul>
-<li>MacOS X :<pre>~/Library/Preferences/PyCharmXX/colors/</pre></li>
-<li>GNU/Linux :<pre> ~/Library/Preferences/PyCharmXX/colors/</pre></li>
-<li>Windows Vista and 7 :<pre> C:\Users\$USER.PyCharmXX\config\colors</pre></li>
-<li>Windows Vista and 7 :<pre> C:\Documents and Settings\$USER\.PyCharmXX\config\colors</pre></li>
+<li>MacOS X :<code>~/Library/Preferences/PyCharmXX/colors/</code></li>
+<li>GNU/Linux :<code> ~/Library/Preferences/PyCharmXX/colors/</code></li>
+<li>Windows Vista and 7 :<pre> C:\Users\$USER.PyCharmXX\config\colors</code></li>
+<li>Windows Vista and 7 :<code> C:\Documents and Settings\$USER\.PyCharmXX\config\colors</code></li>
 <ul>
