@@ -8,17 +8,17 @@ here</a>.
 <h4>Some Screenshots : </h4>
 
 <h5>Python : </h5>
-<img src="https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python1.PNG" alt="python 1"/>
+![python 1](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python1.PNG "")
 
-<img src="https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python2.PNG" alt="python 2"/>
+![python 2](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python2.PNG "")
 
-<img src="https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python3.PNG" alt="python 3"/>
+![python 3](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python3.PNG "")
 
 <h5>HTML and JavaScript :</h5>
-<img src="https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/HTML-CSS.PNG" alt="html-javascript"/>
+![HTML-CSS](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/HTML-CSS.PNG "")
 
 <h5>CSS : </h5>
-<img src="https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/CSS.PNG" alt="css"/>
+![CSS](https://github.com/Romibuzi/pycharm-color-scheme/blob/master/images/Python1.PNG "")
 
 To install it, copy the xml into the following directory (XX = your version of Pycharm) :
 
