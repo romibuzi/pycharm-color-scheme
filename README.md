@@ -16,9 +16,11 @@ here</a>.
 ![python 3](images/Python3.PNG)
 
 <h5>HTML and JavaScript :</h5>
+
 ![HTML-CSS](images/HTML-JS.PNG)
 
 <h5>CSS : </h5>
+
 ![CSS](images/CSS.PNG)
 
 To install it, copy the xml into the following directory (XX = your version of Pycharm) :
