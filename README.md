@@ -28,6 +28,6 @@ To install it, copy the xml into the following directory (XX = your version of P
 <ul>
 <li>MacOS X : <code>~/Library/Preferences/PyCharmXX/config/colors/</code></li>
 <li>GNU/Linux : <code>/home/USER/.PyCharmXX/config/colors/</code></li>
-<li>Windows 7 and newer : <code>C:\Users\USER\\.PyCharmXX\config\colors</code></li>
-<li>Windows XP : <code>C:\Documents and Settings\USER\\.PyCharmXX\config\colors</code></li>
+<li>Windows 7 and newer : <code>C:\Users\USER\.PyCharmXX\config\colors</code></li>
+<li>Windows XP : <code>C:\Documents and Settings\USER\.PyCharmXX\config\colors</code></li>
 <ul>
